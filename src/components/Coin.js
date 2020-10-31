@@ -1,5 +1,5 @@
 import React from "react";
-import "./Coin.css";
+import "../components/Coin.css";
 const Coin = ({
   name,
   image,
